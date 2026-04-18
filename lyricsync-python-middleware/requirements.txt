@@ -1,0 +1,4 @@
+winsdk
+websockets
+requests
+pyncm

@@ -1,0 +1,19 @@
+# Gradle / Fabric
+**/.gradle/
+**/build/
+
+# Python
+.venv/
+**/__pycache__/
+**/*.py[cod]
+**/*.egg-info/
+lyricsync-python-middleware/dist/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
